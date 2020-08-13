@@ -1,6 +1,6 @@
 
 <h1 align="center">
-IBM Garage To Go
+Activation kit
 </h1>
 
 <p align="left">
@@ -10,11 +10,11 @@ IBM Garage To Go
   </a>
 </p>
 
-## IBM Garage To Go
+## Activation kit
 
-This site is a one stop shop for assets and tools that can help you to understand and implement IBM Cloud Solutions to meet your application requirements. These assets range from blogs, webinars, videos, and courses to help you understand cloud concepts and IBM solutions to code and tools to ease your implementation.
+This site is a one stop shop for you to learn the foundations of IBM Garage delivery and IBM Garage Method. These assets range from blogs, webinars, videos, and courses to help you understand cloud concepts and IBM solutions to code and tools to ease your implementation.
 
-The site is hosted at - [https://ibm-cloud-architecture.github.io/](https://ibm-cloud-architecture.github.io/)
+The site is hosted at - [https://SusanLaFera/ibm-cloud-architecture.github.io/](https://ibm-cloud-architecture.github.io/)
 
 
 ```
